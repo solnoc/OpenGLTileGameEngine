@@ -1,0 +1,3 @@
+D:\Faculta\TeamProjectSemester4\OpenGLtest\x64\Debug\OpenGLtest.vcxproj.MdMergeInputs.cache
+D:\Faculta\TeamProjectSemester4\OpenGLtest\x64\Debug\OpenGLtest.vcxproj.cppwinrt_plat.cache
+D:\Faculta\TeamProjectSemester4\OpenGLtest\x64\Debug\OpenGLtest.vcxproj.cppwinrt_comp.cache
